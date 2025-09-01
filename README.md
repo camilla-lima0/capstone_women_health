@@ -16,7 +16,8 @@ New York Times Articles from 2024-2024 accessed via the NYT API
 #### Methodology
 1) Gather the Articles via NYT API
 2) Classification: a) With Keyword Classification b) Manual Review of sample datatset and 3) Building a Model w/ TF-IDF and XGBoost 4) Applying the model to the full dataset 
-3) XX
+3) Basic Analytics:
+4) 
 
 #### Results
 What did your research find?
