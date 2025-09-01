@@ -14,8 +14,8 @@ To what extent has the volume, thematic focus, and sentiment of women's health c
 New York Times Articles from 2024-2024 accessed via the NYT API
 
 #### Methodology
-1) XX
-2) XX
+1) Gather the Articles via NYT API
+2) Classification: a) With Keyword Classification b) Manual Review of sample datatset and 3) Building a Model w/ TF-IDF and XGBoost 4) Applying the model to the full dataset 
 3) XX
 
 #### Results
@@ -26,9 +26,9 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- Step 0: Get Articles from NYT via API [https://github.com/camilla-lima0/capstone_women_health/blob/main/Step_0_Get_NYC_Articles.ipynb]
+- Step 1: Classification: 
+- Step 2: Topic Analysis
 
 
 ##### Contact and Further Information
