@@ -20,16 +20,16 @@ New York Times Articles from 2024-2024 accessed via the NYT API
 4) Themes Analytics: a) Using Gemini API to interpret the themes of women's health articles
 
 #### Results
-So far, I've observed that women's article as a share of total articles has increased over the past 2 decades though still only abour 3% of total NYT articles. And that it is mostly concentrated in news desks like "Well", "Science" and "OpEd". Themes....
+So far, I've observed that women's article as a share of total articles has increased over the past 2 decades though still only abour 3% of total NYT articles. And that it is mostly concentrated in news desks like "Well", "Science" and "OpEd". 
 
 #### Next steps
 I'd like to try to improve the classification method to a) be more comprehensive and b) remove some off-topic areas like obituaries. 
-Also, I want to improve the theme analytics to show trends over time.
+Also, I want to improve the themes analytics to have conclusive results and show trends over time.
 
 #### Outline of project
 
 - Step 0: Get Articles from NYT via API https://github.com/camilla-lima0/capstone_women_health/blob/main/Step_0_Get_NYC_Articles.ipynb
 - Step 1: Classification: https://github.com/camilla-lima0/capstone_women_health/blob/main/Step_1_Classification.ipynb
 - Step 2: Basic Analysis: https://github.com/camilla-lima0/capstone_women_health/blob/main/Step_2_Basic_Analysis.ipynb
-- Step 3: Theme Analytics
+- Step 3: Theme Analytics: https://github.com/camilla-lima0/capstone_women_health/blob/main/Step_3_Theme_Analysis.ipynb
 
