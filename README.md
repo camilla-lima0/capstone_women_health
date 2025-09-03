@@ -20,7 +20,7 @@ New York Times Articles from 2024-2024 accessed via the NYT API
 4) Themes Analytics: a) Using Gemini API to interpret the themes of women's health articles
 
 #### Results
-So far, I've observed that women's article as a share of total articles has increased over the past 2 decades though still only abour 3% of total NYT articles. And that it is mostly concentrated in news desks like "Well", "Science" and "OpEd". 
+So far, I've observed that women's article as a share of total articles has increased over the past 2 decades though still only abour 3% of total NYT articles. And that it is mostly concentrated in news desks like "Well", "Science" and "OpEd". With the LLM categorization, the themes around womens health that show up more often are "Work Life Balance", "Gender Inequality" and "Gender Pay Gap"
 
 #### Next steps
 I'd like to try to improve the classification method to a) be more comprehensive and b) remove some off-topic areas like obituaries. 
